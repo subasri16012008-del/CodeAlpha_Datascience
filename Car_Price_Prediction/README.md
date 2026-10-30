@@ -1,4 +1,4 @@
-# Car Price Prediction with Machine Learning
+# Car Price Prediction using Python
 
 ## Description
 This project predicts car prices based on car features using the Random Forest Regression algorithm.
